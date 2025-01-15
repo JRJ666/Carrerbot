@@ -1,0 +1,32 @@
+[2024-05-02 14:00:00] INFO: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2024-05-02 14:00:00] INFO: NumExpr defaulting to 8 threads.
+[2024-05-02 14:00:02] INFO: Yaml file: config\config.yaml loaded successfully
+[2024-05-02 14:00:02] INFO: Yaml file: config\params.yaml loaded successfully
+[2024-05-02 14:00:02] INFO: Created directory at: artifacts/
+[2024-05-02 14:00:02] INFO: LLM successfully Loaded and Prepared!!!
+Enter the query: What career path should I choose?
+[2024-05-02 14:00:10] INFO: Respond took 0.003 seconds time
+Response: Based on your interests and skills, I would recommend exploring careers in technology, such as software development or data analysis.
+Enter the query: How can I become a data scientist?
+[2024-05-02 14:00:15] INFO: Respond took 0.002 seconds time
+Response: To become a data scientist, you should focus on learning programming languages like Python and R, gaining expertise in statistical analysis and machine learning techniques, and obtaining relevant certifications or degrees in data science or a related field.
+Enter the query: What are the job prospects for software developers?
+[2024-05-02 14:00:20] INFO: Respond took 0.002 seconds time
+Response: Software development is a rapidly growing field with high demand for skilled professionals. Job prospects for software developers are excellent, with opportunities available in various industries such as technology, finance, healthcare, and more.
+Enter the query: Thank you for your help!
+[2024-05-02 14:00:25] INFO: Respond took 0.001 seconds time
+Response: You're welcome! If you have any more questions or need further assistance, feel free to ask.
+Enter the query: What are the top skills needed for a career in marketing?
+[2024-05-02 14:00:30] INFO: Respond took 0.003 seconds time
+Response: Some top skills needed for a career in marketing include excellent communication skills, creativity, analytical skills, digital marketing expertise, and the ability to understand and analyze market trends and consumer behavior.
+Enter the query: How can I improve my interview skills?
+[2024-05-02 14:00:35] INFO: Respond took 0.002 seconds time
+Response: To improve your interview skills, you can practice common interview questions, research the company and position you're applying for, rehearse your responses, work on your body language and communication skills, and seek feedback from mock interviews or professionals in the field.
+Enter the query: Can you recommend any online courses for learning data analysis?
+[2024-05-02 14:00:40] INFO: Respond took 0.003 seconds time
+Response: Sure! Some popular online courses for learning data analysis include Coursera's "Data Science Specialization," edX's "Data Science MicroMasters Program," and Udacity's "Data Analyst Nanodegree."
+Enter the query: How can I balance my work and personal life?
+[2024-05-02 14:00:45] INFO: Respond took 0.002 seconds time
+Response: Balancing work and personal life can be challenging, but some strategies include setting boundaries, prioritizing tasks, scheduling time for both work and leisure activities, delegating tasks when possible, and practicing self-care and stress management techniques.
+Enter the query: exit
+[2024-05-02 14:00:50] INFO: Exiting the chatbot. Goodbye!
